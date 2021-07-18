@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0</version>
+    <title>$title$</title>
+    <authors>LAPTRINHVB.NET</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <icon>sql_icon.png</icon>
+    <description>Thư viện helper kết nối sqlserver + c# sử dụng Dapper</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>sqlhelper sqlC#dapper</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+    </dependencies>
+  </metadata>
+  <files>   
+    <file src="sql_icon.png" target="" />
+  </files>
+</package>
